@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # :wave: The Basics of Git and GitHub 
+=======
+# :wave: The Basics of GitHub Robin Wilson-Robin Wilson
+>>>>>>> Stashed changes
 
 ## 🤓 Course overview and learning outcomes 
 
