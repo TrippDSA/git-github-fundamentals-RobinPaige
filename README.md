@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub Robin Wilson
+# :wave: The Basics of GitHub Robin Wilson-Robin Wilson testing
 
 ## 🤓 Course overview and learning outcomes 
 
